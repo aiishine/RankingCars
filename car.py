@@ -6,6 +6,7 @@ from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 
 df = pd.read_csv('./cars.csv')
 
+
 print("Aperçu des données chargées :")
 print(df.head())
 
