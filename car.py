@@ -70,7 +70,6 @@ print("\nPROMETHEE II Result:")
 print(promethee_ii_result)
 
 # GAIA
-
 gaia_result = promethee_gaia(normalized_df.values, weights, Q, S, P, F)
 
 
